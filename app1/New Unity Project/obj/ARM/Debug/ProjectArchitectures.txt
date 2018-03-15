@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\app1\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\Admin\Documents\app1\New Unity Project\New Unity Project.csproj;arm
